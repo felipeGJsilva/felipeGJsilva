@@ -61,8 +61,7 @@ Desenvolvedor de software com formação técnica em Desenvolvimento de Sistemas
 
 ## 📫 Contato
 - GitHub: https://github.com/felipeGJsilva  
-- LinkedIn: **(adicione aqui)**  
-- Email: **(adicione aqui)**  
+- LinkedIn: https://www.linkedin.com/in/felipe-jansen-30917838b/
 
 ---
 
